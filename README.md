@@ -66,25 +66,11 @@ The website collects user information and sends an automated email notification 
 
 ---
 
+## 📸 Screenshots
 
-
-\## 📸 Screenshots
-
-
-
-(Add screenshots inside assets/screenshots and link them here)
-
-
-
-Example:
-
-
-
-!\[Homepage](assets/screenshots/homepage.png)
-
-!\[Form Section](assets/screenshots/form.png)
-
-
+![Homepage](assets/screenshots/homepage.png)
+![Form](assets/screenshots/form.png)
+![Mobile View](assets/screenshots/mobile.png)
 
 ---
 
